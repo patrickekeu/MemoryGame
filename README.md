@@ -1,5 +1,6 @@
 # MemoryGame
 First Project of 2024
+February 9, 2024
 
 A popular children’s game is the Memory game, in which a set of 16 cards containing pairs of matching objects are shuffled and dealt in a 4×4 grid, face down.  
 In the solitaire version, a player can turn over any two cards and if they match, can remove them from the board.  Otherwise, they are turned over and the player gets to turn over two more cards.  
